@@ -81,6 +81,15 @@ fluent_mind/
         └── logo.png
 ```
 
+## المساهمة
+
+نرحب بمساهماتكم! يرجى اتباع الخطوات التالية:
+
+1. عمل Fork للمشروع
+2. إنشاء فرع جديد للميزة: `git checkout -b feature/amazing-feature`
+3. عمل Commit للتغييرات: `git commit -m 'إضافة ميزة رائعة'`
+4. رفع التغييرات: `git push origin feature/amazing-feature`
+5. فتح طلب Pull Request
 
 ## الترخيص
 
